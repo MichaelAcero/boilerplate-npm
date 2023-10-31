@@ -1,7 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
   "author": "Michael Acero",
-  "description": "Back End Development & APIs Ciriculum from FreeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
